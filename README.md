@@ -25,7 +25,7 @@
 - A passionate Self-taught Back-end and Front-end developer
 - Playing Volley at spare time
 - I am currently learning web development and mobile development on my own.
-- I’m currently open for an Intern or a new job opportunity, this is [my resume]([https://read.cv/0xabdulkhalid](https://drive.google.com/file/d/196L-OIy-E2GD9fCYM7PqlJ1vNIIIWDWv/view?usp=drive_link))
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/196L-OIy-E2GD9fCYM7PqlJ1vNIIIWDWv/view?usp=drive_link)
 
 <br><br>
 
