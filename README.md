@@ -170,7 +170,7 @@
 
 ## <b>Andres Iles Dev</b>
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+  <img  src="https://github.com/Ilesandres/img_Proyects/blob/main/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
