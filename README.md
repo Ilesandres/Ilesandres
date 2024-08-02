@@ -15,7 +15,7 @@
 
 
 	
-## <picture><img src = "https://github.com/Ilesandres/img_Proyects/blob/main/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/Ilesandres/img_Proyects/blob/main/about_me.gif" width = 50px></picture> **About me**<picture><img src = "https://github.com/Ilesandres/img_Proyects/blob/main/handshake.gif" width = 50px></picture> 
 
 
 <picture> <img align="right" src="https://github.com/Ilesandres/img_Proyects/blob/main/programming.svg" width = 250px></picture>
