@@ -1,10 +1,10 @@
 
-<h1 align="center"><b>Hi , I'm Andres Iles </b><img src="https://github.com/Ilesandres/img_Proyects/blob/main/chico_programando.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Andres Iles </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 
 
 <p align="center">
-  <a href="https://github.com/Ilesandres/img_Proyects/blob/main/img%20enginner.gif">
+  <a href="https://github.com/Ilesandres/img_Proyects/blob/main/chico_programando.gif">
   <picture><img src="https://camo.githubusercontent.com/5352b6b2b973a416adb9f788796e6e861e6ff286d2d83780df8ef7d90d4ca349/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" alt="imagen-gift" width = 250px/></picture>
   </a>
 </p>
